@@ -1,0 +1,8 @@
+{
+  "name": "Growify AI",
+  "description": "A multi-modal AI application leveraging Gemini for text, chat, image generation, and image editing, with integrated voice commands and ElevenLabs text-to-speech capabilities. The AI, named Growify, was created by Raman.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
